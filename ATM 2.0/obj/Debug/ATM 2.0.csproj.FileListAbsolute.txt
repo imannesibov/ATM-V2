@@ -1,0 +1,12 @@
+C:\Users\NXsi_qew2\source\repos\ATM 2.0\ATM 2.0\bin\Debug\ATM 2.0.exe.config
+C:\Users\NXsi_qew2\source\repos\ATM 2.0\ATM 2.0\bin\Debug\ATM 2.0.exe
+C:\Users\NXsi_qew2\source\repos\ATM 2.0\ATM 2.0\bin\Debug\ATM 2.0.pdb
+C:\Users\NXsi_qew2\source\repos\ATM 2.0\ATM 2.0\obj\Debug\ATM 2.0.csprojAssemblyReference.cache
+C:\Users\NXsi_qew2\source\repos\ATM 2.0\ATM 2.0\obj\Debug\ATM 2.0.exe
+C:\Users\NXsi_qew2\source\repos\ATM 2.0\ATM 2.0\obj\Debug\ATM 2.0.pdb
+C:\Users\lenovo 330\Desktop\ATM 2.0\ATM 2.0\bin\Debug\ATM 2.0.exe.config
+C:\Users\lenovo 330\Desktop\ATM 2.0\ATM 2.0\bin\Debug\ATM 2.0.exe
+C:\Users\lenovo 330\Desktop\ATM 2.0\ATM 2.0\bin\Debug\ATM 2.0.pdb
+C:\Users\lenovo 330\Desktop\ATM 2.0\ATM 2.0\obj\Debug\ATM 2.0.csprojAssemblyReference.cache
+C:\Users\lenovo 330\Desktop\ATM 2.0\ATM 2.0\obj\Debug\ATM 2.0.exe
+C:\Users\lenovo 330\Desktop\ATM 2.0\ATM 2.0\obj\Debug\ATM 2.0.pdb
